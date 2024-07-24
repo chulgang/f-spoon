@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/라이브러리06.27/commons-dbcp2-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/라이브러리06.27/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/라이브러리06.27/commons-pool2-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/라이브러리06.27/jcommon-1.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/라이브러리06.27/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/라이브러리06.27/mariadb-java-client-3.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
