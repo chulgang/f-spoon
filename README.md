@@ -35,8 +35,13 @@
 
 - MariaDB
 
-## Collaboration Tools
+## Tools
 
+### Collaboration
 - Slack
 - Notion
 - Custom Git
+
+### IDE
+- EditPlus
+- Eclipse
