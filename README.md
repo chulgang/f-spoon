@@ -6,6 +6,11 @@
 - 학부모들의 정보 공유를 위한 커뮤니티 서비스
 <br>
 
+## 📅 프로젝트 기간
+<b>
+2024. 06. 24 ~ 2024. 06. 28
+<br><br><br>
+
 ## 📚 관련 URL
 
 - [철강 2팀 노션](https://spring-periodical-246.notion.site/2-d0fd365a39af4b85be1852d8b2370e95?pvs=4)
