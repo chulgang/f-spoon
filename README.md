@@ -20,6 +20,9 @@
 - [F-Spoon Custom Git](https://spring-periodical-246.notion.site/b7f6622996e84c798832355f9a136922?v=f98d53a836e3488c961de52e258f1402&pvs=4)
 <br>
 
+## 🗄️ ERD
+![ERD](https://github.com/user-attachments/assets/5e552909-bd34-4eb5-8286-2a045fe2a5d5)
+
 ## 🛠️ Skills
 
 ## Front-End
